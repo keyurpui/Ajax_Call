@@ -1,0 +1,22 @@
+{
+  "student": [
+    {
+      "id":"101",
+      "name": "student1",
+      "age": "22",
+      "hobbies": "cricket"
+    },
+    {
+      "id":"102",
+      "name": "student2",
+      "age": "23",
+      "hobbies": "cricket"
+    },
+    {
+      "id":"103",
+      "name": "student3",
+      "age": "24",
+      "hobbies": "cricket"
+    }
+  ]
+}
